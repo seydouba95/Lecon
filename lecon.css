@@ -1,0 +1,50 @@
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 10 px;
+}
+a:hover
+{
+    text-decoration-line: underline;
+}
+
+em
+{
+   color: red; 
+   
+}
+a{
+    text-decoration-line: none;
+    
+}
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    display: block;
+}
+.div-som
+{
+  background-color: white;
+  width: 400px;
+  padding: 2px;
+  border: 1px solid black;
+  margin: 1px;
+}
+#som
+{
+    display: block;
+    
+}
+#btn_afficher
+{
+display: none;
+ 
+}
+#bouton
+{
+    position: absolute;
+    top: 228px;
+    right: 1076px;
+    color: blue;
+    cursor: pointer;
+}
+
